@@ -65,8 +65,6 @@ public class Ejercicio3 {
                 System.out.println("Figura invalida");
                 break;
         }
-
-        scanner.close(); // Buena práctica: cerrar el scanner al terminar
     }
 }
 
